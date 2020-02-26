@@ -11,7 +11,6 @@
 <li><a class="" href="https://keithgreer.uk/web-services">Domains &amp; Hosting</a></li>
 </ul>
 </li>
-<li><hr></li>
 <li><a class="" href="https://keithgreer.uk/blog">Blog</a>
 <ul>
 <li><a class="" href="https://keithgreer.uk/tags/magento">Magento</a></li>
