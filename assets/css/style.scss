@@ -1,0 +1,29 @@
+---
+---
+
+$header-bg-color: #2e70ba !default;
+
+@import "{{ site.theme }}";
+
+.page-header {
+  color: $header-heading-color;
+  text-align: center;
+  background-color: $header-bg-color;
+  background-image: none;
+}
+
+.main-content {
+  h1, h2, h3, h4, h5,h6 { color:#2e70ba; }
+}
+
+.keithgreeruk {
+  display:block;
+  background: #2e70ba;
+  text-decoration: none;
+  padding:0.5em 1em;
+  margin:4em 0 2em 0;
+  text-align:center;
+  font-size:14px;
+  color:rgba(255, 255, 255, 0.5);
+  strong { font-weight:bold; color:rgba(255, 255, 255, 1) }
+}
