@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+
+title: keithgreer.github.io
+description: Web Developer
+
+show_downloads: true
