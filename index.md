@@ -3,7 +3,7 @@
 Repositories currently hosted on GitHub:
 
 * [.gitignore](https://keithgreer.github.io/gitignore/) - a collection of .gitignore scripts
-* [Logger.sh](https://keithgreer.github.io/https://keithgreer.github.io/logger-sh/) - a Shell/Bash Git logging script 
+* [Logger.sh](https://keithgreer.github.io/logger-sh/) - a Shell/Bash Git logging script 
 * plus, [a collection of gists](https://gist.github.com/keithgreer)
 
 ## Forked
